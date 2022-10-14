@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sudheshna Perla
 - 👀 I’m interested in learning new things which improves my career growth.
 - 🌱 I’m currently looking for a job in a reputed organization which helps me improve personally and professionally.
-- 💞️ The technical skills i possessed are JAVA, C, Python, HTML and CSS, SQL.
+- 💞️ The technical skills i possessed are JAVA, C, SQL, Python, HTML and CSS.
 - 📫 How to reach me - perlasudheshna@gmail.com
 
 <!---
